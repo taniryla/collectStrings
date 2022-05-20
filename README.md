@@ -1,0 +1,2 @@
+# collectStrings
+Created with CodeSandbox
